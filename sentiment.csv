@@ -1,0 +1,51 @@
+,tweets,score,analysis
+0,This is a positive tweet.,0.23,Neutral
+1,I'm feeling great today!,1.0,Positive
+2,I don't like this at all.,0.0,Neutral
+3,Neutral statement here.,0.0,Neutral
+4,This is another positive tweet.,0.23,Neutral
+5,I'm enjoying the weather today.,0.5,Positive
+6,I'm feeling sad.,-0.5,Negative
+7,This is a fantastic day!,0.5,Positive
+8,I'm not sure how I feel about this.,-0.25,Neutral
+9,This is a negative tweet.,-0.3,Neutral
+10,I'm disappointed with the service.,-0.75,Negative
+11,I love this product!,0.62,Positive
+12,This is a neutral tweet.,0.0,Neutral
+13,I'm indifferent about the outcome.,0.0,Neutral
+14,I'm excited for the weekend!,0.47,Neutral
+15,This is a happy tweet.,0.8,Positive
+16,I'm feeling tired.,-0.4,Neutral
+17,I'm frustrated with this situation.,-0.7,Negative
+18,This is a positive experience.,0.23,Neutral
+19,I'm grateful for your help.,0.0,Neutral
+20,I'm feeling anxious.,-0.25,Neutral
+21,This is a negative experience.,-0.3,Neutral
+22,I'm upset about the news.,0.0,Neutral
+23,I'm feeling optimistic.,0.0,Neutral
+24,This is a positive development.,0.23,Neutral
+25,I'm bored with this task.,-0.5,Negative
+26,I'm feeling stressed.,0.0,Neutral
+27,This is a negative situation.,-0.3,Neutral
+28,I'm nervous about the presentation.,0.0,Neutral
+29,I'm feeling content.,0.0,Neutral
+30,This is a positive outcome.,0.23,Neutral
+31,I'm feeling energetic.,0.5,Positive
+32,I'm disappointed with the results.,-0.75,Negative
+33,This is a great opportunity.,0.8,Positive
+34,I'm feeling overwhelmed.,0.0,Neutral
+35,I'm frustrated with the delays.,-0.7,Negative
+36,This is a wonderful day.,1.0,Positive
+37,I'm feeling uncertain.,0.0,Neutral
+38,I'm excited about the future.,0.19,Neutral
+39,This is a positive change.,0.23,Neutral
+40,I'm feeling motivated.,0.0,Neutral
+41,I'm frustrated with the process.,-0.7,Negative
+42,This is a significant improvement.,0.38,Neutral
+43,I'm feeling relieved.,0.0,Neutral
+44,I'm thrilled with the news.,0.6,Positive
+45,This is a positive sign.,0.23,Neutral
+46,I'm feeling hopeful.,0.0,Neutral
+47,I'm disappointed with the outcome.,-0.75,Negative
+48,This is a major setback.,0.06,Neutral
+49,I'm feeling pessimistic.,0.0,Neutral
